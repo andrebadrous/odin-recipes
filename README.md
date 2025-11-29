@@ -1,3 +1,3 @@
 # odin-recipes
 
-## complete webpage for that links to recipes 
+## complete webpage that links to recipes 
